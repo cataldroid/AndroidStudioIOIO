@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibAndroidDevice/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibAndroid/unspecified/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibAndroidDevice/src/main/res" >
+            <file
+                name="device_filter"
+                path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibAndroidDevice/src/main/res/xml/device_filter.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibAndroidDevice/build/generated/res/rs/release" />
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibAndroidDevice/build/generated/res/generated/release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibAndroidDevice/src/release/res" />
+    </dataSet>
+
+</merger>

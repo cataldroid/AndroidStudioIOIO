@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibAndroid/unspecified/res" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibAndroidDevice/unspecified/res" >
+            <file
+                name="device_filter"
+                path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibAndroidDevice/unspecified/res/xml/device_filter.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibAccessory/unspecified/res" >
+            <file
+                name="accessory_filter"
+                path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibAccessory/unspecified/res/xml/accessory_filter.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibBT/unspecified/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/src/main/res" >
+            <file
+                name="icon"
+                path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/src/main/res/drawable/icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="main"
+                path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >AutoLab
+                </string>
+                <string name="hello" >Test 1.0: Toggle button Stat LED
+                </string>
+            </file>
+        </source>
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/generated/res/rs/debug" />
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/src/debug/res" />
+    </dataSet>
+
+</merger>

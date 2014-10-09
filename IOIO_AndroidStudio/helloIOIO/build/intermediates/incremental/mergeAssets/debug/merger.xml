@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibAndroid/unspecified/assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibAndroidDevice/unspecified/assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibBT/unspecified/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/src/debug/assets" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/pre-dexed/debug/classes-9c710781690056047f3a15f04b3900f97c29a4d3.jar"
+        jar="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibAndroid/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b459b3b4f80261341452211736f14ce5550d7bc0"/>
+    <item
+        dex="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/pre-dexed/debug/classes-7b07781d6f510cbec8fe37094963bdacd469e945.jar"
+        jar="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibBT/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e943926ad63be48f9cb5dfff1347dea2c64ac161"/>
+    <item
+        dex="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/pre-dexed/debug/classes-162a65303f98c5425450c10121211af525abc3e4.jar"
+        jar="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibAccessory/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="46fbbe5e64db432f8e1a441bb8622c2f3a35cffe"/>
+    <item
+        dex="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/pre-dexed/debug/classes-fa84de17023143d547950d67c9329ffd7968509e.jar"
+        jar="/Users/atarric/AndroidStudioProjects/HelloIOIO1/helloIOIO/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibAndroidDevice/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="aaab454e6c1e7c59803e33ad0581dabcabf3b14f"/>
+
+</pre-dex-items>

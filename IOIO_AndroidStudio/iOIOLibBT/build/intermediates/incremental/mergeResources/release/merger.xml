@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibBT/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibAndroid/unspecified/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibBT/src/main/res" />
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibBT/build/generated/res/rs/release" />
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibBT/build/generated/res/generated/release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibBT/src/release/res" />
+    </dataSet>
+
+</merger>

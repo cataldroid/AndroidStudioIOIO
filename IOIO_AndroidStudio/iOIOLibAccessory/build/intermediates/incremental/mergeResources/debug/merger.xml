@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibAccessory/build/intermediates/exploded-aar/HelloIOIO1/iOIOLibAndroid/unspecified/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibAccessory/src/main/res" >
+            <file
+                name="accessory_filter"
+                path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibAccessory/src/main/res/xml/accessory_filter.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibAccessory/build/generated/res/rs/debug" />
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibAccessory/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/atarric/AndroidStudioProjects/HelloIOIO1/iOIOLibAccessory/src/debug/res" />
+    </dataSet>
+
+</merger>
